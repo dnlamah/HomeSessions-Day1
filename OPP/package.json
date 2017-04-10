@@ -1,0 +1,26 @@
+{
+  "name": "opp",
+  "version": "1.0.0",
+  "description": "Object oriented programming",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnlamah/HomeSessions-Day1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dnlamah/HomeSessions-Day1/issues"
+  },
+  "homepage": "https://github.com/dnlamah/HomeSessions-Day1#readme"
+}

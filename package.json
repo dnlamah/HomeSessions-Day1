@@ -1,0 +1,29 @@
+{
+  "name": "homesessions-day1",
+  "version": "1.0.0",
+  "description": "object oriented programming",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnlamah/HomeSessions-Day1.git"
+  },
+  "author": "Daniel Amah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnlamah/HomeSessions-Day1/issues"
+  },
+  "homepage": "https://github.com/dnlamah/HomeSessions-Day1#readme",
+  "keywords": [
+    "oop",
+    "object",
+    "oriented",
+    "programming"
+  ]
+}
